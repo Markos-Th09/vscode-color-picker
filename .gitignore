@@ -6,3 +6,4 @@ node_modules
 .yarn
 .dccache
 .env
+pnpm-lock.yaml
